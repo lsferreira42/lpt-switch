@@ -6,5 +6,6 @@ compiler:
 before_script:
   - cd lib/parapin
   - make
-
+  - cd ../..
+  
 script: make
