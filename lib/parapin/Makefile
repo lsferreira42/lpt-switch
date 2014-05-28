@@ -31,9 +31,6 @@
 # $Id: Makefile-2.6,v 1.9 2007/06/23 22:58:27 ahooton Exp $
 #
 
-# Turn DEBUG on
-# CFLAGS=-DDEBUG
-
 # Set this to be the location of your Linux kernel header files (and
 # modules, if you're using the kernel modules).  If you are building
 # for the kernel you are running, the lines below with "uname" in the
