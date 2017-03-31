@@ -2,7 +2,7 @@ lpt-switch
 ==========
 
 
-![Travis status](https://travis-ci.org/leandrosferreira/lpt-switch.svg)
+![Travis status](https://travis-ci.org/lsferreira42/lpt-switch.svg?branch=master)
 
 
 A linux lpt-switch driver to X11.org
